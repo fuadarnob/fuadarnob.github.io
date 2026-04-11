@@ -1,4 +1,4 @@
-# Hi, I'm Arnob! Future Doctor
+# Hi, I'm Arnob!
 # "Doctor by profession,
 # engineer by contribution."
 
