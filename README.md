@@ -1,4 +1,7 @@
-# Hi, I'm Arnob! Doctor by profession engineer by contribution.
+# Hi, I'm Arnob!
+
+ "Doctor by profession engineer by contribution."
+
 - Completed Computer Engineering
 - Completed Data science
 - Completed Machine Learning
