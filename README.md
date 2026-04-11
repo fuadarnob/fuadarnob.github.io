@@ -1,6 +1,6 @@
 # Hi, I'm Arnob!
-# "Doctor by profession
- engineer by contribution."
+# "Doctor by profession,
+# engineer by contribution."
 
 - Completed Computer Engineering
 - Completed Data science
