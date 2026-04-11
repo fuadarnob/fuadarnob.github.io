@@ -1,9 +1,12 @@
-# Hi, I'm Arnob!
+# Hi, I'm Arnob! Doctor by profession engineer by contribution.
+- Completed Computer Engineering
+- Completed Data science
+- Completed Machine Learning
+- Completed Ai, Deep Learning
+- Completed Cybersecurity
 - Completed Generative Ai for everyone
-- Completed Professional Diploma in Digital Business Development
+- Completed Professional Digital Business Development
 - Attended Nirjhor Cantonment Public School and College
-- Passionate about Physics, Math and AI
-- Innovating something new changing the world
 
 ## Skills:
 - Python, HTML, CSS, JavaScript
