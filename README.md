@@ -1,5 +1,4 @@
 # Hi, I'm Arnob!
-
  "Doctor by profession engineer by contribution."
 
 - Completed Computer Engineering
