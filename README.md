@@ -1,11 +1,4 @@
-
-
-![Uploading 20260413_192437.jpg …]()
-
-
-
-![Isa_Khan-_Masnad-i-Ala_Portrait.png](https://github.com/user-attachments/assets/5c4ce394-2c77-4f62-98db-939812df12e8)
-
+![IMG_20260314_064926_983.webp](https://github.com/user-attachments/assets/356bf44c-964e-456e-9f28-1ef16ec481cd)
 
 # Hi, I'm Arnob!
 # "Doctor by profession,
