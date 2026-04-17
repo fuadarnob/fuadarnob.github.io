@@ -1,8 +1,7 @@
+# Hi, I'm Arnob!
+
 ![IMG_20260314_064926_983.webp](https://github.com/user-attachments/assets/356bf44c-964e-456e-9f28-1ef16ec481cd)
 
-# Hi, I'm Arnob!
-# "Doctor by profession,
-# engineer by contribution."
 
 - Completed Computer Engineering
 - Completed Data science
